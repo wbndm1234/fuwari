@@ -2,7 +2,7 @@
 
 个人站点仓库, 使用 [fuwari](https://github.com/saicaca/fuwari) 构建
 
-Site: [wyf9.top](https://wyf9.top)
+Site: [wbndm1234.github.io](https://wbndm1234.github.io/)
 
 ## 常用命令
 
