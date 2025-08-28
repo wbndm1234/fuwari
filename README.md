@@ -1,6 +1,6 @@
-# wyf9's Blog
+# 倒霉の小站
 
-个人 blog 站点仓库, 使用 [fuwari](https://github.com/saicaca/fuwari) 构建
+个人站点仓库, 使用 [fuwari](https://github.com/saicaca/fuwari) 构建
 
 Site: [wyf9.top](https://wyf9.top)
 
