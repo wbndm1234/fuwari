@@ -1,6 +1,6 @@
 ---
 title: 机器人号状态
-published: 更新2025-08-30
+published: 2025-08-30
 description: '这个就看机器人状态用的'
 image: ''
 tags: ['bot']
