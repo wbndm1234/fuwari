@@ -1,7 +1,7 @@
 ---
 title: 机器人号状态
-published: 2025-08-30
-description: '这个就看机器人状态用的'
+published: 2025-08-31
+description: '看机器人状态指引'
 image: ''
 tags: ['bot']
 category: '机器人'
@@ -10,11 +10,11 @@ lang: ''
 ---
 
 # 看机器人状态的 首先
-# 可拉=可以拉的  
-# 不可拉=不能加好友和拉群
+## 可拉=可以加好友和拉群  
+## ~~不可拉=不能拉群~~ 但是可以加好友
+## 拉群须[先进群找群主](https://wbndm1234.github.io/posts/qq-join/)（对，就我）
+### <font color=#008000>绿色=活着</font>
+### <font color=red>红色=似了</font>
 
-# <font color=#008000>绿色=活着</font>
-# <font color=red>红色=似了</font>
-
-**<font color=#008000>3694334972</font>[那刻夏老师 可拉](https://qm.qq.com/q/6gzDFpC7i8)**
-
+> [!TIP]
+> *机器人账号[状态查看区](https://wbndm1234.github.io/posts/zt1/),看的格式为：QQ号，机器人名字（有这个括号的为ai机器人），链接（有的为封了的号封号日期，没链接）*
